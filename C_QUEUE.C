@@ -1,3 +1,4 @@
+//Coded by Deepanshu Sharma
 #include<stdio.h>
 #include<conio.h>
 #define MAXSIZE 10
